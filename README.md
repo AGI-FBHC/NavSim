@@ -8,10 +8,12 @@
 
 ## 🎬 演示视频
 
-> **[▶ 点击观看演示视频](https://github.com/AGI-FBHC/NavSim/releases/download/v1.0/test_video.mp4)**
-
 <p align="center">
-<img src="doc/images/start.png" width="70%"/>
+  <a href="https://www.bilibili.com/video/BV1E6Js6DEnC/">
+    <img src="doc/images/start.png" width="70%"/>
+  </a>
+  <br/>
+  <a href="https://www.bilibili.com/video/BV1E6Js6DEnC/">▶ 点击观看演示视频（B站）</a>
 </p>
 
 ## 📖 项目简介
