@@ -8,13 +8,7 @@
 
 ## 🎬 演示视频
 
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV1E6Js6DEnC/">
-    <img src="doc/images/start.png" width="70%"/>
-  </a>
-  <br/>
-  <a href="https://www.bilibili.com/video/BV1E6Js6DEnC/">▶ 点击观看演示视频（B站）</a>
-</p>
+https://github.com/user-attachments/assets/03925cd7-99ff-4112-a63f-215f43b5f7e6
 
 ## 📖 项目简介
 
