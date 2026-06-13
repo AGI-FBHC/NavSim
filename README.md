@@ -9,9 +9,11 @@
 ## 🎬 演示视频
 
 <p align="center">
-  <video src="doc/video/test_video.mp4" width="70%" controls>
-    您的浏览器不支持视频播放，请<a href="doc/video/test_video.mp4">点击下载</a>观看。
-  </video>
+  <a href="https://github.com/AGI-FBHC/NavSim/releases/download/v1.0/test_video.mp4">
+    <img src="doc/images/start.png" width="70%" alt="点击播放演示视频"/>
+    <br/>
+    ▶ 点击图片播放演示视频
+  </a>
 </p>
 
 ## 📖 项目简介
