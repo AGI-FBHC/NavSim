@@ -1,0 +1,8 @@
+# 源码压缩包
+*.tar.xz
+*.tar.gz
+*.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
